@@ -1,2 +1,6 @@
-# Auth-page-html
-HTML login page
+# Simple HTML login page
+## By Maxlware
+
+---
+
+Free for use.
